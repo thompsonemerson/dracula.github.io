@@ -1,6 +1,6 @@
 # draculatheme.com
 
-> This branch contains the source code for [draculatheme.com](draculatheme.com).
+> This branch contains the source code for [draculatheme.com](https://draculatheme.com).
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/398893/15063871/bd2a9396-1302-11e6-9a14-1048c9e6ba4c.png)
 
@@ -15,7 +15,7 @@ We use [Metalsmith](http://www.metalsmith.io/), a static generator in NodeJS.
 2. Now clone this repository:
 
     ```sh
-    $ git clone git://github.com/zenorocha/dracula-theme.git
+    $ git clone https://github.com/dracula/dracula-theme.git
     ```
 
 3. Then go to the project's folder:
